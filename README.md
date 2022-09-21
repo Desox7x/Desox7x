@@ -5,7 +5,7 @@ I'm a Software Engineer/Software Developer from Dominican Republic.
 - ⚙ I've spent most of my time developing in Javascript, React and Flutter.
 - 🌱 I’m currently learning Angular, .NET, Docker, DevOps and MongoDB (And obviously keeping my skills up to date!).
 - 📫 How to reach me: sungbyfans@gmail.com.
-- ⚡ Fun fact: Took me 4 years to reach level 40 in [ae27ff](https://ae27ff.meme.tips)
+- ⚡ Fun fact: Took me 4 years to reach level 40 in [ae27ff](https://ae27ff.meme.tips)!
 
 <!--
 **Desox7x/Desox7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
